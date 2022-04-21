@@ -1,4 +1,4 @@
-package com.github.mangelt.beans;
+package com.github.mangelt.hello.beans;
 
 public class SpringBean1 {
     private SpringBean2 springBean2;

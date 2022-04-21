@@ -1,6 +1,6 @@
-package com.github.mangelt.controller;
+package com.github.mangelt.hello.controller;
 
-import com.github.mangelt.beans.SpringBean1;
+import com.github.mangelt.hello.beans.SpringBean1;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
